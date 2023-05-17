@@ -1,0 +1,5 @@
+allocate
+process
+*.exe
+*.out
+*.o
